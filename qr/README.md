@@ -9,7 +9,7 @@ https://link.campanino.it/
 | File | Uso |
 |---|---|
 | `qr-instagram.png` | 1080×1080, grafica completa con logo e colori della Tenuta — pronto per post o storia Instagram |
-| `qr-campanino.png` | 1160×1160, solo QR su fondo crema — per stampa, menù, vetrina, biglietti da visita |
+| `qr-campanino.png` | 1640×1640, solo QR su fondo crema — per stampa, menù, vetrina, biglietti da visita |
 | `qr-campanino.svg` | vettoriale, scalabile a qualsiasi dimensione senza perdita di qualità |
 
 Correzione d'errore livello H: il codice resta leggibile anche con una parte
